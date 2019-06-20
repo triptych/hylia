@@ -1,6 +1,6 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Build On The Web
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''

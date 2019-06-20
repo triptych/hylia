@@ -1,0 +1,1 @@
+{"type":"PR","pr":{"number":2,"head":"af18ee33a180bb577a24277b13776aa581bbf930"},"user":"triptych","status":"draft","branch":"cms/test-post","collection":"posts","title":"Test post","description":"No Description!","objects":{"entry":{"path":"src/posts/test-post.md","sha":"0070a5e0732bff85c88cf5b1c7f34c350b2ae212"},"files":[]},"timeStamp":"2019-06-20T16:01:34.440Z"}
